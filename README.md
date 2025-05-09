@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**parad0x25/parad0x25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**glen0xFFF/glen0xFFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
