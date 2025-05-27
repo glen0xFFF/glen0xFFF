@@ -1,5 +1,5 @@
-#Dev Glenox
-
+# Dev Glenox <br/>
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 ### Hi there 👋
 
 Here are some ideas to get you started:
