@@ -20,7 +20,7 @@ I'm a full-stack software engineer focused on building robust, well-tested produ
 - 🌱 **Currently learning** — distributed systems design and Rust internals
 - 🛠️ **I enjoy** — turning ambiguous problems into maintainable, production-grade software
 - 💬 **Ask me about** — TypeScript, Python, system design, and clean architecture
-- 📫 **Reach me at** — [hello@vixeldisplay.com](mailto:hello@vixeldisplay.com)
+- 📫 **Reach me at** — [dev@glenox.net](mailto:dev@glenox.net)
 
 ---
 
@@ -31,6 +31,8 @@ I'm a full-stack software engineer focused on building robust, well-tested produ
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -62,11 +64,11 @@ I'm a full-stack software engineer focused on building robust, well-tested produ
 
 | Project | Description | Tech | Links |
 | ------- | ----------- | ---- | ----- |
-| **Project One** | _One-line summary of what it does and the problem it solves._ | `TypeScript` `React` | [Repo](#) · [Demo](#) |
-| **Project Two** | _One-line summary of what it does and the problem it solves._ | `Python` `FastAPI` | [Repo](#) · [Demo](#) |
-| **Project Three** | _One-line summary of what it does and the problem it solves._ | `Rust` `C++` | [Repo](#) · [Demo](#) |
+| **pm2-nox** | _Process manager tooling around PM2 for running and monitoring Node.js apps._ | `Node.js` `JavaScript` | [Repo](https://github.com/glen0xFFF/pm2-nox) |
+| **KaninPHP** | _Lightweight PHP framework / library for building web applications._ | `PHP` | [Repo](https://github.com/glen0xFFF/KaninPHP) |
+| **go-mcp-server** | _Model Context Protocol (MCP) server implementation written in Go._ | `Go` | [Repo](https://github.com/glen0xFFF/go-mcp-server) |
 
-> _Replace the rows above with your real repositories — keep it to your 3–4 strongest._
+> _Descriptions above are inferred from the project names — refine each one-liner to match what the project actually does._
 
 ---
 
@@ -86,7 +88,7 @@ I'm a full-stack software engineer focused on building robust, well-tested produ
 ### 🤝 Connect
 
 <p align="center">
-  <a href="mailto:hello@vixeldisplay.com">
+  <a href="mailto:dev@glenox.net">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/glen0xFFF">
