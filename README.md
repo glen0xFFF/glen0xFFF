@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/glen0xFFF">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=520&lines=Full-Stack+Software+Engineer;Building+reliable%2C+scalable+systems;JS%2FTS+%E2%80%A2+Python+%E2%80%A2+C%2FC%2B%2B%2FRust+%E2%80%A2+Cloud" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=560&lines=Full-Stack+Software+Engineer;AI+%2F+ML+%E2%80%A2+LLM+Apps+%E2%80%A2+Computer+Vision;Designing+scalable%2C+reliable+systems;JS%2FTS+%E2%80%A2+Python+%E2%80%A2+Go+%E2%80%A2+Cloud" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,12 +14,14 @@
 
 ### 👨‍💻 About Me
 
-I'm a full-stack software engineer focused on building robust, well-tested products end to end — from clean UIs to performant backends and the infrastructure they run on.
+I'm a full-stack software engineer focused on building robust, well-tested products end to end — from clean UIs to performant backends and the infrastructure they run on. I also design and ship AI/ML-powered features, from LLM applications and RAG pipelines to computer-vision and NLP models.
 
-- 🔭 **Currently working on** — full-stack web applications and developer tooling
+- 🔭 **Currently working on** — full-stack web applications, developer tooling, and AI-powered features
+- 🤖 **AI / ML** — LLM apps (RAG, agents), ML model training, and computer vision / NLP
+- 🏗️ **Architecture** — scalable, event-driven system design with a strong testing discipline
 - 🌱 **Currently learning** — distributed systems design and Rust internals
 - 🛠️ **I enjoy** — turning ambiguous problems into maintainable, production-grade software
-- 💬 **Ask me about** — TypeScript, Python, system design, and clean architecture
+- 💬 **Ask me about** — system design, AI integration, TypeScript, Python, and clean architecture
 - 🌐 **Website** — [glenox.net](https://glenox.net/)
 - 📫 **Reach me at** — [dev@glenox.net](mailto:dev@glenox.net)
 
@@ -32,6 +34,9 @@ I'm a full-stack software engineer focused on building robust, well-tested produ
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -42,8 +47,28 @@ I'm a full-stack software engineer focused on building robust, well-tested produ
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**AI & LLM**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**ML & Data Science**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -62,8 +87,15 @@ I'm a full-stack software engineer focused on building robust, well-tested produ
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-**Tooling**
+**Messaging & Streaming**
 
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+**Testing & Tooling**
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
