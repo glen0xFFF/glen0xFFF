@@ -138,6 +138,9 @@ I'm a full-stack software engineer focused on building robust, well-tested produ
   <a href="https://github.com/glen0xFFF">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.facebook.com/glen0xFFF">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
 
 <p align="center"><sub>⭐️ Thanks for visiting — feel free to explore my repositories and reach out.</sub></p>
