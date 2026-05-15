@@ -20,6 +20,7 @@ I'm a full-stack software engineer focused on building robust, well-tested produ
 - 🌱 **Currently learning** — distributed systems design and Rust internals
 - 🛠️ **I enjoy** — turning ambiguous problems into maintainable, production-grade software
 - 💬 **Ask me about** — TypeScript, Python, system design, and clean architecture
+- 🌐 **Website** — [glenox.net](https://glenox.net/)
 - 📫 **Reach me at** — [dev@glenox.net](mailto:dev@glenox.net)
 
 ---
@@ -88,6 +89,9 @@ I'm a full-stack software engineer focused on building robust, well-tested produ
 ### 🤝 Connect
 
 <p align="center">
+  <a href="https://glenox.net/">
+    <img src="https://img.shields.io/badge/Website-glenox.net-4FC3F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
   <a href="mailto:dev@glenox.net">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
